@@ -55,5 +55,5 @@ body {
 ## Author
 
 - Website - [Eric Kamau](https://github.com/kamauEr)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/kamauEr)
-- Twitter/X - [@yourusername](https://www.x.com/erico_Kamau)
+- Frontend Mentor - [@kamauEr](https://www.frontendmentor.io/profile/kamauEr)
+- Twitter/X - [@erico_Kamau](https://www.x.com/erico_Kamau)
