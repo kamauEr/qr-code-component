@@ -37,7 +37,8 @@ body {
   font-weight: 400;
 }
 
-.attribution a {
+.attribution:link,
+.attribution:visited {
   color: hsl(228, 45%, 44%);
 }
 
